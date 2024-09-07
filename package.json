@@ -1,0 +1,15 @@
+{
+  "name": "ui_practices",
+  "version": "1.0.0",
+  "description": "This repo contain ui code of populer websites to inhance the designing skills  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "parikshit gaikwad",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
